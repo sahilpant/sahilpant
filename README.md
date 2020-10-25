@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+  <img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" height="128">
 </div>
 
 
