@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"128">
+  <img src="http://www.nyan.cat/cats/original.gif"128">
 </div>
 
 
