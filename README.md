@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif"128">
+  <img src="https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif"128">
 </div>
 
 
