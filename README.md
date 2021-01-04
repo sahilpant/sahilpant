@@ -5,9 +5,6 @@
 
 
 
-<div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height = 120>
-</div>
 
 
 
@@ -34,7 +31,9 @@
 
 
 
-
+<div align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" height = 120>
+</div>
 
 
 
