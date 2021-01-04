@@ -9,11 +9,11 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilpant&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height = 50>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilpant&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height = 150>
 
 
 
-  <img src= "https://github-profile-trophy.vercel.app/?username=sahilpant" height = 50>
+  <img src= "https://github-profile-trophy.vercel.app/?username=sahilpant" height = 150>
 </div>
 
 
