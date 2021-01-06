@@ -10,7 +10,6 @@
 
 <div align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilpant&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height = 150>
-  <img src= "https://github-profile-trophy.vercel.app/?username=sahilpant" height = 150>
 </div>
 
 
@@ -23,7 +22,7 @@
 
 
 <div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height = 120>
+  <img src="http://www.nyan.cat/cats/original.gif" height = 100>
 </div>
 
 
