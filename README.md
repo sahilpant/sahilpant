@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on ... Binance Smart Chain Dapp
-- 🌱 I’m currently learning ... Blockchain, Typescript, Nodejs, Redis...and many more
-- 💬 Ask me about ... C, C++, Js, TS, Data Structure and Algorithms
+- 🔭 Currently working at NPCI ... Working on Fintech Solution with Rust
+- 🌱 Currently learning ... Rust, Runtimes, Asynchronus Programming with Rustand Distributed Systems
+- 💬 Ask me about ... Rust, C, C++, Js, TS, Data Structure and Algorithms
 - 📫 How to reach me: ... sahilpant16@gmail.com
 - ⚡ Fun fact: ... I am 1300 on Lichess :sunglasses:
 
